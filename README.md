@@ -1,5 +1,3 @@
-### Hello World
-
 <a href="https://www.linkedin.com/in/alansouza1">
   <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Linkedin logo"
 	title="Linkedin Alan Souza" width="20%" height="auto" />
