@@ -3,7 +3,7 @@
 	title="Linkedin Alan Souza" width="20%" height="auto" />
 </a>
 
-###Olá, meu nome é Alan Souza e atualmente sou estudante de desenvolvimento web fullstack na escola [Trybe](https://www.betrybe.com/).
+### Olá, meu nome é Alan Souza e atualmente sou estudante de desenvolvimento web fullstack na escola [Trybe](https://www.betrybe.com/).
 
 ## GitHub Stats
 
