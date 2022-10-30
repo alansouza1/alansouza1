@@ -17,7 +17,7 @@
 
 <a href="https://github.com/alansouza1" align="center" target="_blank">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alansouza1&show_icons=true&theme=dark"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansouza1&show_icons=true&theme=dark"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansouza1&show_icons=true&theme=dark&exclude_repo=trybe-exercises"/>
 </a>
 
 ![](https://komarev.com/ghpvc/?username=alansouza1)
