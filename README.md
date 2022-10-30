@@ -19,3 +19,5 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alansouza1&show_icons=true&theme=dark"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansouza1&show_icons=true&theme=dark"/>
 </a>
+
+![](https://komarev.com/ghpvc/?username=alansouza1)
