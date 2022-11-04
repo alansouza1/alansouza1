@@ -4,7 +4,7 @@
 </a>
 
 #
-## Olá, meu nome é Alan Souza e atualmente sou estudante de desenvolvimento web fullstack na escola [Trybe](https://www.betrybe.com/).
+## Olá, meu nome é Alan Souza e atualmente sou estudante de desenvolvimento web Full Stack na escola [Trybe](https://www.betrybe.com/).
 
 ## Linguagens e ferramentas:
 ### Front-End:
