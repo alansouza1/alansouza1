@@ -3,6 +3,8 @@
 	title="Linkedin Alan Souza" width="20%" height="auto" />
 </a>
 
+## Email: alansouza4001@gmail.com
+
 #
 ## Olá, meu nome é Alan Souza e atualmente sou estudante de desenvolvimento web Full Stack na escola [Trybe](https://www.betrybe.com/).
 
