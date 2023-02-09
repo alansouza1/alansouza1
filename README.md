@@ -5,7 +5,7 @@
 
 ## Email: alansouza4001@gmail.com
 
-## Olá, meu nome é Alan Souza e atualmente sou estudante de desenvolvimento web Full Stack na escola [Trybe](https://www.betrybe.com/).
+## Olá, meu nome é Alan Souza e sou Desenvolvedor Web Full Stack Júnior.
 
 ## Linguagens e ferramentas:
 ### Front-End:
