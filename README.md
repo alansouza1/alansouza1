@@ -5,7 +5,7 @@
 
 ## Email: alansouza4001@gmail.com
 
-## Olá, meu nome é Alan Souza e sou Desenvolvedor Web Full Stack, graduando em ciência da computação pela Faculdade Impacta.
+## Olá, meu nome é Alan Souza e sou Desenvolvedor Web Full Stack, graduando em Ciência da Computação pela Faculdade Impacta.
 
 ## Linguagens e ferramentas:
 ### Front-End:
