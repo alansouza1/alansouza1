@@ -5,7 +5,7 @@
 
 ## Email: alansouza4001@gmail.com
 
-## Hello, my name is Alan Souza and I am a Full Stack Web Developer, currently studying Computer Science at Faculdade Impacta.
+## Full Stack Web Developer, currently studying Computer Science at Impacta Technology College.
 
 ## Programming languages ​​and tools:
 ### Front-End:
