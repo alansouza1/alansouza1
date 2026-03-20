@@ -5,7 +5,7 @@
 
 ## Email: alansouza4001@gmail.com
 
-## Full Stack Web Developer, currently studying Computer Science at Impacta Technology College.
+## Full Stack Web Developer, currently studying Computer Science at FIAP.
 
 ## Programming languages ​​and tools:
 ### Front-End:
