@@ -15,11 +15,5 @@
 
 #
 
-<p align="left" display="flex">
-  <a href="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alansouza1&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px">
-    <img alt="Davi's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alansouza1&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px">
-  </a>
-  <a href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alansouza1&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px">
-    <img alt="Davi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alansouza1&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px">
-  </a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alansouza1&show_icons=true&theme=dark&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alansouza1&size_weight=0.5&count_weight=0.5&theme=dark&hide=html,css,dockerfile)
